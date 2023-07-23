@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.25" height="28" role="img" aria-label="STREAMING"><title>STREAMING</title><g shape-rendering="crispEdges"><rect width="102.25" height="28" fill="#0099e5"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="511.25" y="175" textLength="782.5" fill="#fff" font-weight="bold">STREAMING</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146.75" height="28" role="img" aria-label="COLOR">
+    <title>STREAMING</title>
+    <defs>
+        <linearGradient id="0" x1="0" y1="0.5" x2="1" y2="0.5">
+            <stop offset="0%" stop-color="#0db7ed"/>
+            <stop offset="51%" stop-color="#0099e5"/>
+            <stop offset="100%" stop-color="#00599c"/>
+        </linearGradient>
+    </defs>
+    <g shape-rendering="crispEdges">
+        <rect width="146.75" height="28" fill="url(#0)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="733.75" y="175" textLength="900" fill="#FFFFFF" font-weight="bold">STREAMING</text></g>
+</svg>
