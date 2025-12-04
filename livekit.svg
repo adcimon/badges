@@ -1,21 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-	width="98.75"
-	height="28"
-	role="img"
-	aria-label="LIVEKIT">
+<svg xmlns="http://www.w3.org/2000/svg" width="98.75" height="28" role="img" aria-label="LIVEKIT">
 	<title>LIVEKIT</title>
 	<g shape-rendering="crispEdges">
 		<rect width="98.75" height="28" fill="#121212" />
 	</g>
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
 		text-rendering="geometricPrecision" font-size="100">
-		<image x="9" y="7" width="14" height="14"
-			transform="translate(16 14) scale(.7) translate(-16 -14)"
+		<image x="10" y="8" width="12" height="12"
 			href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF80Mjg0XzMzNTQ1KSI+DQo8cGF0aCBkPSJNMTQuNDAwNCA5LjU5OTYxSDkuNTk5NjFWMTQuNDAwNEgxNC40MDA0VjkuNTk5NjFaIiBmaWxsPSIjMUZENUY5Ii8+DQo8cGF0aCBkPSJNMTkuMjAxMSA0LjgwMDc4SDE0LjQwMDRWOS42MDE1M0gxOS4yMDExVjQuODAwNzhaIiBmaWxsPSIjMUZENUY5Ii8+DQo8cGF0aCBkPSJNMTkuMjAxMSAxNC40MDA0SDE0LjQwMDRWMTkuMjAxMUgxOS4yMDExVjE0LjQwMDRaIiBmaWxsPSIjMUZENUY5Ii8+DQo8cGF0aCBkPSJNMjQgMEgxOS4xOTkyVjQuODAwNzVIMjRWMFoiIGZpbGw9IiMxRkQ1RjkiLz4NCjxwYXRoIGQ9Ik0yNCAxOS4xOTkySDE5LjE5OTJWMjRIMjRWMTkuMTk5MloiIGZpbGw9IiMxRkQ1RjkiLz4NCjxwYXRoIGQ9Ik00LjgwMDc1IDE5LjE5OTJWMTQuNDAwNFY5LjU5OTYyVjQuODAwNzVWMEgwVjQuODAwNzVWOS41OTk2MlYxNC40MDA0VjE5LjE5OTJWMjRINC44MDA3NUg5LjU5OTYzSDE0LjQwMDRWMTkuMTk5Mkg5LjU5OTYzSDQuODAwNzVaIiBmaWxsPSJ3aGl0ZSIvPg0KPC9nPg0KPGRlZnM+DQo8Y2xpcFBhdGggaWQ9ImNsaXAwXzQyODRfMzM1NDUiPg0KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSIvPg0KPC9jbGlwUGF0aD4NCjwvZGVmcz4NCjwvc3ZnPg0K" />
 		<text transform="scale(.1)" x="593.75" y="175" textLength="547.5" fill="#fff"
-			font-weight="bold">
-			<tspan>LIVE</tspan>
-			<tspan fill="#21d4fd">KIT</tspan>
-		</text>
+			font-weight="bold">LIVEKIT</text>
 	</g>
 </svg>
