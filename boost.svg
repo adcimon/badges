@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="88.25"
+	height="28"
+	role="img"
+	aria-label="BOOST">
+	<title>BOOST</title>
+	<g shape-rendering="crispEdges">
+		<rect width="88.25" height="28" fill="#f2f2f2" />
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+		text-rendering="geometricPrecision" font-size="100">
+		<image x="7" y="5" width="18" height="18"
+			href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE1MDAgMTUwMCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZjlmMDA7fTwvc3R5bGU+PC9kZWZzPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTExMDAsMTQzLjc3SDQwMEw1MCw3NTBsOTQuODksMTY0LjM2TDQ5NC43NSwzMDguMmgzNTMuNTljMTUwLjc0LDAsMjczLjMyLDEyMi41OSwyNzMuMzIsMjczLjMzLDAsNjQuMTMtMjYuNTgsMTM4LjU3LTgxLjQxLDE2OS43Nyw1My4zOCw0MC4xNyw3OS4xNywxMDQuMDcsNzkuMTcsMTY2Ljc5LDAsMTUwLjY2LTEyMi41OSwyNzMuMjUtMjczLjMzLDI3My4yNWgtNDYzLjYzbDEyMS4wOS0yMDkuODdoMzQyLjUzYzM1LjAyLDAsNjMuNDYtMjguNDQsNjMuNDYtNjMuMzlzLTI2LjgtNjEuODItNjAuNDctNjMuMzFjLS45Ny0uMTUtMjcyLjM2LDAtMjcyLjM2LDBsMTIxLjI1LTIxMC4wMXMxNTEuOTMuMTUsMTUyLjYuMDdjMTQuMjYtLjQ1LDI3LjI1LTUuNiwzNy41Ni0xNC4wNCwxNC40OC0xMS41NywyMy42Ny0yOS4zNCwyMy42Ny00OS4yNywwLTM1LjAxLTI4LjQ1LTYzLjQ2LTYzLjQ2LTYzLjQ2aC0yMjUuNjNsLTM1My4zNiw2MTEuOTMsMTMwLjY1LDIyNi4yNGg3MDBsMzUwLTYwNi4yMy0zNTAtNjA2LjIzWiIvPjwvc3ZnPg==" />
+		<text transform="scale(.1)" x="541.25" y="175" textLength="442.5" fill="#333333"
+			font-weight="bold">BOOST</text>
+	</g>
+</svg>
