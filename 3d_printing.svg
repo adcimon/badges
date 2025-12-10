@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="133.75"
+	height="28"
+	role="img"
+	aria-label="3D PRINTING">
+	<title>3D PRINTING</title>
+	<g shape-rendering="crispEdges">
+		<rect width="133.75" height="28" fill="#476695" />
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+		text-rendering="geometricPrecision" font-size="100">
+		<image x="9" y="7" width="14" height="14"
+			href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW55Y3ViaWM8L3RpdGxlPjxwYXRoIGQ9Im02Ljc2Mi41MzQgOC43MjggMy40ODEgOC40NjkgNy40NDktNi40OTQtLjYzMUw2Ljc2Mi41MzRabTEwLjcyIDEwLjQ2MyA2LjUxOC41ODEtNy44MjYgOC43NDktOC42NDkgMy4xMzkgOS45NTctMTIuNDY5Wk02LjU5Mi42MDFsMTAuNjk5IDEwLjMzMUw3LjM1NSAyMy40NCAwIDEyLjQ2NSA2LjU5Mi42MDFaIi8+PC9zdmc+" />
+		<text transform="scale(.1)" x="768.75" y="175" textLength="897.5" fill="#fff"
+			font-weight="bold">3D PRINTING</text>
+	</g>
+</svg>
