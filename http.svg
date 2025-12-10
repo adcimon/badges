@@ -1,15 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	width="58"
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="78"
 	height="28"
 	role="img"
 	aria-label="HTTP">
 	<title>HTTP</title>
 	<g shape-rendering="crispEdges">
-		<rect width="58" height="28" fill="#005b9c" />
+		<rect width="78" height="28" fill="#005b9c" />
 	</g>
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
 		text-rendering="geometricPrecision" font-size="100">
-		<text transform="scale(.1)" x="290" y="175" textLength="340" fill="#fff" font-weight="bold">
+		<image x="2" y="0" width="28" height="28"
+			href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNzMuNzEgMjAwIj48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPi5jbHMtMXtmaWxsOiMwMDhlYzc7fS5jbHMtMntmaWxsOiMwMDViOWI7fS5jbHMtM3tmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5JRVRGLUJhZGdlLUhUVFA8L3RpdGxlPjxnIGlkPSJMYXllcl8yIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zMjYsMEg0Ny43M0wwLDEwMCw0Ny43MywyMDBIMzI2bDQ3LjczLTEwMFpNMzEwLjA1LDE4My4zNkg1OC4yMkwxOC40MywxMDAsNTguMjIsMTYuNjRIMzEwLjA1TDM0OS44NCwxMDBaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjM0OS44NCAxMDAuMDEgMzEwLjA1IDE4My4zNyA1OC4yMiAxODMuMzcgMTguNDMgMTAwLjAxIDU4LjIyIDE2LjY0IDMxMC4wNSAxNi42NCAzNDkuODQgMTAwLjAxIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTI4LjA1LDcxLjg5djU5LjUzSDExNC4yN1YxMDdoLTI3djI0LjQxSDczLjQ2VjcxLjg5SDg3LjIzVjk1LjM2aDI3VjcxLjg5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1NC41LDgzLjEySDEzNS40NVY3MS44OWg1MS44N1Y4My4xMmgtMTl2NDguM0gxNTQuNVoiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMDcuOSw4My4xMkgxODguODVWNzEuODloNTEuODdWODMuMTJIMjIxLjY3djQ4LjNIMjA3LjlaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjg3LjYyLDc0LjUzYTIwLjQ1LDIwLjQ1LDAsMCwxLDksNy40OCwyMC42NywyMC42NywwLDAsMSwzLjE0LDExLjQ4LDIwLjczLDIwLjczLDAsMCwxLTMuMTQsMTEuNDQsMjAuMDYsMjAuMDYsMCwwLDEtOSw3LjQ4QTMzLjU1LDMzLjU1LDAsMCwxLDI3My44OCwxMTVoLTEydjE2LjQySDI0OC4xMlY3MS44OWgyNS43NkEzMy4wNSwzMy4wNSwwLDAsMSwyODcuNjIsNzQuNTNabS01LjA2LDI2LjU3YTkuMzMsOS4zMywwLDAsMCwzLjIzLTcuNjFjMC0zLjM0LTEuMDgtNS45MS0zLjIzLTcuNjlzLTUuMy0yLjY4LTkuNDQtMi42OEgyNjEuODl2MjAuNjZoMTEuMjNRMjc5LjMzLDEwMy43OCwyODIuNTYsMTAxLjFaIi8+PC9nPjwvc3ZnPg==" />
+		<text transform="scale(.1)" x="490" y="175" textLength="340" fill="#fff" font-weight="bold">
 			HTTP</text>
 	</g>
 </svg>
