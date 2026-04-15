@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	width="93.5"
+	height="28"
+	role="img"
+	aria-label="GITLAB">
+	<title>GITLAB</title>
+	<g shape-rendering="crispEdges">
+		<rect width="93.5" height="28" fill="#18171d" />
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+		text-rendering="geometricPrecision" font-size="100">
+		<image x="9" y="7" width="14" height="14"
+			href="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiBjbGFzcz0idGFudWtpLWxvZ28iIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI1IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KICA8cGF0aCBjbGFzcz0idGFudWtpLXNoYXBlIHRhbnVraSIgZD0ibTI0LjUwNyA5LjUtLjAzNC0uMDlMMjEuMDgyLjU2MmEuODk2Ljg5NiAwIDAgMC0xLjY5NC4wOTFsLTIuMjkgNy4wMUg3LjgyNUw1LjUzNS42NTNhLjg5OC44OTggMCAwIDAtMS42OTQtLjA5TC40NTEgOS40MTEuNDE2IDkuNWE2LjI5NyA2LjI5NyAwIDAgMCAyLjA5IDcuMjc4bC4wMTIuMDEuMDMuMDIyIDUuMTYgMy44NjcgMi41NiAxLjkzNSAxLjU1NCAxLjE3NmExLjA1MSAxLjA1MSAwIDAgMCAxLjI2OCAwbDEuNTU1LTEuMTc2IDIuNTYtMS45MzUgNS4xOTctMy44OS4wMTQtLjAxQTYuMjk3IDYuMjk3IDAgMCAwIDI0LjUwNyA5LjVaIiBmaWxsPSIjRTI0MzI5Ij48L3BhdGg+DQogIDxwYXRoIGNsYXNzPSJ0YW51a2ktc2hhcGUgcmlnaHQtY2hlZWsiIGQ9Im0yNC41MDcgOS41LS4wMzQtLjA5YTExLjQ0IDExLjQ0IDAgMCAwLTQuNTYgMi4wNTFsLTcuNDQ3IDUuNjMyIDQuNzQyIDMuNTg0IDUuMTk3LTMuODkuMDE0LS4wMUE2LjI5NyA2LjI5NyAwIDAgMCAyNC41MDcgOS41WiIgZmlsbD0iI0ZDNkQyNiI+PC9wYXRoPg0KICA8cGF0aCBjbGFzcz0idGFudWtpLXNoYXBlIGNoaW4iIGQ9Im03LjcwNyAyMC42NzcgMi41NiAxLjkzNSAxLjU1NSAxLjE3NmExLjA1MSAxLjA1MSAwIDAgMCAxLjI2OCAwbDEuNTU1LTEuMTc2IDIuNTYtMS45MzUtNC43NDMtMy41ODQtNC43NTUgMy41ODRaIiBmaWxsPSIjRkNBMzI2Ij48L3BhdGg+DQogIDxwYXRoIGNsYXNzPSJ0YW51a2ktc2hhcGUgbGVmdC1jaGVlayIgZD0iTTUuMDEgMTEuNDYxYTExLjQzIDExLjQzIDAgMCAwLTQuNTYtMi4wNUwuNDE2IDkuNWE2LjI5NyA2LjI5NyAwIDAgMCAyLjA5IDcuMjc4bC4wMTIuMDEuMDMuMDIyIDUuMTYgMy44NjcgNC43NDUtMy41ODQtNy40NDQtNS42MzJaIiBmaWxsPSIjRkM2RDI2Ij48L3BhdGg+DQo8L3N2Zz4=" />
+		<text transform="scale(.1)" x="567.5" y="175" textLength="495" fill="#fff"
+			font-weight="bold">GITLAB</text>
+	</g>
+</svg>
